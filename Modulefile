@@ -1,0 +1,7 @@
+name    'propertybase-cmnginx'
+version '0.1.0'
+author 'Bruce Dou'
+license 'MIT'
+summary 'Manifest to install openresty distribution of nginx'
+description 'Installs the current nginx distribution plus useful modules from source'
+project_page 'http://github.com/doubaokun/puppet-cmnginx'

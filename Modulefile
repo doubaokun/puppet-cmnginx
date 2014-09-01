@@ -1,4 +1,4 @@
-name    'propertybase-cmnginx'
+name    'cm-cmnginx'
 version '0.1.0'
 author 'Bruce Dou'
 license 'MIT'
